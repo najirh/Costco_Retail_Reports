@@ -1,4 +1,4 @@
-# 🛒 Costco Retail Sales Analysis - Power BI  
+# 🛒 Costco Retail Sales Trends Analysis - Power BI  
 
 <p align="center">
   <img src="path-to-your-logo.png" alt="Costco Logo" width="200"/>
