@@ -10,8 +10,9 @@ This Power BI dashboard transforms **messy, unstructured sales data** from multi
 ## 📷 Screenshots  
 ## Row Data --> Model --> Data Story
 ![](https://github.com/najirh/Costco_Retail_Reports/blob/main/costocoreports.png)  
-**Data Model:** *(Add your model screenshot here)*  
-**Final Dashboard:** *(Add your dashboard screenshot here)*  
+---
+[Explore the dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzBmODUwMmUtMDMzMC00OTUzLWE2MWMtYmUwZTJiODM3ZjJlIiwidCI6ImY3NDM5NmYzLTgwMTUtNGI3NC1iNDY4LWNkYTA0NTEzZDg0YyJ9)
+ 
 
 ## 🔍 Key Features  
 - **Data Cleaning & Transformation:** Organized and structured unclean sales data for accurate analysis.  
