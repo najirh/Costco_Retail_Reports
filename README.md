@@ -1,7 +1,7 @@
 # 🛒 Costco Retail Sales Trends Analysis - Power BI  
 
 <p align="center">
-  <img src="https://github.com/najirh/Costco_Retail_Reports" alt="Costco Logo" width="200"/>
+  <img src="https://github.com/najirh/Costco_Retail_Reports/blob/main/power-bi-logo.jpg" alt="Costco Logo" width="200"/>
 </p>  
 
 ## 📊 Project Overview  
