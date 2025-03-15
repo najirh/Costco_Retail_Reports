@@ -8,7 +8,8 @@
 This Power BI dashboard transforms **messy, unstructured sales data** from multiple sources into a **clear, insightful, and interactive report** to help stakeholders make data-driven decisions.  
 
 ## 📷 Screenshots  
-**Raw Data:** *(Add your raw data screenshot here)*  
+## Row Data --> Model --> Data Story
+![](https://github.com/najirh/Costco_Retail_Reports/blob/main/costocoreports.png)  
 **Data Model:** *(Add your model screenshot here)*  
 **Final Dashboard:** *(Add your dashboard screenshot here)*  
 
