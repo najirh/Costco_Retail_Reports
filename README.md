@@ -23,4 +23,4 @@ This Power BI dashboard transforms **messy, unstructured sales data** from multi
 ## 📜 License & Copyright  
 - 📌 **Data:** This project uses **simulated sales data** for educational purposes.  
 - ⚖️ **License:** Open-source under the **MIT License** – feel free to explore and modify.  
-- © **2025 Your Name | All Rights Reserved**  
+- © **2025 Najir H. | All Rights Reserved**  
